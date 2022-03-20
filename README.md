@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PeterTGrel
+- 👀 I’m interested in Automation, Microcontrollers and Energetics
+- 🌱 I’m currently learning Electrical engineering
+- 💞️ I’m looking to collaborate on everything :)
+- 📫 How to reach me peter.tothdoc@gmail.com
