@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @PeterTGrel
-- 👀 I’m interested in Electronics, Microcontrollers and Signal Processing
-- 🌱 I’m currently learning EVERYTHING
-- 💞️ I’m looking to collaborate on everything :)
-- 📫 How to reach me peter.tothdoc@gmail.com
+- 👋 Hi
